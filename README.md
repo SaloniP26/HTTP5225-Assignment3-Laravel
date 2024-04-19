@@ -103,6 +103,9 @@ Attributes:
 
 ![home](https://github.com/SaloniP26/HTTP5225-Assignment3-Laravel/assets/144495609/a18309ad-c482-42b7-9962-58d407d7de23)
 
+![about](https://github.com/SaloniP26/HTTP5225-Assignment3-Laravel/assets/144495609/9811debc-6f69-4d34-bebf-004413ef4a7e)
+
+
 ![add](https://github.com/SaloniP26/HTTP5225-Assignment3-Laravel/assets/144495609/f0c11a3b-9452-472c-9efb-d2d3c7de2d42)
 
 ![edit](https://github.com/SaloniP26/HTTP5225-Assignment3-Laravel/assets/144495609/0bf39acf-78d4-4697-9838-88575b8b6c72)
