@@ -40,9 +40,9 @@ To run this project locally, follow these steps:
 2. **Install dependencies:**
 
     
-    cd Quotify
-    composer install
-    npm install && npm run dev
+    - cd Quotify
+    - composer install
+    - npm install && npm run dev
     
     
 3. **Set up the database:**
@@ -50,12 +50,12 @@ To run this project locally, follow these steps:
     - Create a new MySQL database for the project.
     - Update the `.env` file with your database details:
 
-        DB_CONNECTION=mysql
-        DB_HOST=127.0.0.1
-        DB_PORT=3306
-        DB_DATABASE=your_database_name
-        DB_USERNAME=your_database_username
-        DB_PASSWORD=your_database_password
+       - DB_CONNECTION=mysql
+       - DB_HOST=127.0.0.1
+       - DB_PORT=3306
+       - DB_DATABASE=your_database_name
+       - DB_USERNAME=your_database_username
+       - DB_PASSWORD=your_database_password
         
 
 3. **Run migrations and seed the database:**
@@ -78,7 +78,6 @@ To run this project locally, follow these steps:
 
 - Navigate to the homepage to view all quotes.
 - Click on the "Add New Quote" button to create a new quote.
-- Click on a quote to view its details.
 - Use the edit and delete buttons to modify or remove quotes.
 
 ## 📊 Database Table Name: quotes
