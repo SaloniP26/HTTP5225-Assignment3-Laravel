@@ -10,7 +10,9 @@ Quotify is a web application for managing and sharing quotes.
 - [✨ Features](#-features)
 - [🛠️ Setup](#️️-setup)
 - [📋 Usage](#️-usage)
-- [📷 Images](#-images)
+- [📊 Database Table Name](#-table-name)
+- [👩‍💻 Operations](#-operations)
+- [📷 Application Images](#-images)
 - [👩‍💻 Contributor](#-contributor)
 
 ## 🚀 Introduction
@@ -79,7 +81,7 @@ To run this project locally, follow these steps:
 - Click on a quote to view its details.
 - Use the edit and delete buttons to modify or remove quotes.
 
-## 📊 Table Name: quotes
+## 📊 Database Table Name: quotes
 
 Attributes:
 - id: Unique identifier for the quotes. (Integer)
@@ -89,8 +91,15 @@ Attributes:
 
 ![database](https://github.com/SaloniP26/HTTP5225-Assignment3-Laravel/assets/144495609/3b60f993-f984-4010-a8e3-e6a5d917b53c)
 
+## 👩‍💻 Operations
 
-## 📷 Images
+- **Create:** Add a new car to the system.
+- **Read:** View details of existing cars.
+- **Update:** Modify information of existing cars.
+- **Delete:** Remove cars from the system.
+
+
+## 📷 Application Images
 
 
 ![home](https://github.com/SaloniP26/HTTP5225-Assignment3-Laravel/assets/144495609/a18309ad-c482-42b7-9962-58d407d7de23)
