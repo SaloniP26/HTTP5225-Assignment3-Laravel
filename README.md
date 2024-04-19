@@ -92,10 +92,10 @@ Attributes:
 
 ## 👩‍💻 Operations
 
-- **Create:** Add a new car to the system.
-- **Read:** View details of existing cars.
-- **Update:** Modify information of existing cars.
-- **Delete:** Remove cars from the system.
+- **Create:** Add a new quote.
+- **Read:** View existing quote.
+- **Update:** Modify existing quote.
+- **Delete:** Delete quote.
 
 
 ## 📷 Application Images
